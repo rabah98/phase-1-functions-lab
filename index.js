@@ -1,1 +1,6 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks (location) {
+    const Hq = 42;
+    let distance = location - Hq;
+    return distance
+  
+}
